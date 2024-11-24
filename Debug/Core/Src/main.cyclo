@@ -1,0 +1,15 @@
+../Core/Src/main.c:141:6:inicializarMatrices	3
+../Core/Src/main.c:151:6:imprimirMatriz	3
+../Core/Src/main.c:161:6:tareaMultiplicacion	5
+../Core/Src/main.c:206:6:temporizadorCallback	1
+../Core/Src/main.c:211:6:tareaMonitoreo	3
+../Core/Src/main.c:230:1:__io_putchar	1
+../Core/Src/main.c:237:5:main	6
+../Core/Src/main.c:367:6:SystemClock_Config	4
+../Core/Src/main.c:425:13:MX_ETH_Init	2
+../Core/Src/main.c:474:13:MX_USART2_UART_Init	2
+../Core/Src/main.c:509:13:MX_USART3_UART_Init	2
+../Core/Src/main.c:544:13:MX_USB_OTG_FS_PCD_Init	2
+../Core/Src/main.c:579:13:MX_GPIO_Init	1
+../Core/Src/main.c:640:6:StartDefaultTask	1
+../Core/Src/main.c:655:6:Error_Handler	1
